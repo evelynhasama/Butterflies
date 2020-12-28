@@ -1,3 +1,3 @@
 # Butterflies
 One-page butterfly app
-(/screenshot)
+(https://github.com/evelynhasama/Butterflies/screenshot.png)
