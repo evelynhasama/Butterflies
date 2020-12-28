@@ -33,7 +33,7 @@
                                     <constraint firstAttribute="width" constant="120" id="nQU-Y6-xGt"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="[quote of the day]" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="noZ-et-9NU">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="[quote of the day]" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="noZ-et-9NU">
                                 <rect key="frame" x="41" y="138" width="246" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="246" id="oLU-Q8-CMk"/>
